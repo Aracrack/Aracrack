@@ -1,7 +1,6 @@
 `English`
 ### Hi there 👋
 
-Hello there
 My name is Vitor Arakaki and I'm a Data Engineering.
 
 I'm currently working on Itaú Unibanco.
@@ -15,3 +14,20 @@ These are some of my programming knowledges:
 - 📱 Flutter;
 - ⌨️ JavaScript;
 > Still learning
+
+`Portuguese`
+### Olá 👋
+
+Meu nome é Vitor Arakaki e eu sou um Engenheiro de dados.
+
+Atualmente estou trabalhando no Itaú Unibanco.
+
+Estou sempre aprendendo algo diferente, especialmente sobre programação em diferentes linguagens.
+
+Essas são algumas das linguagens de programação que conheço:
+
+- 🐍 Python;
+- 💾 SQL;
+- 📱 Flutter;
+- ⌨️ JavaScript;
+> Ainda aprendendo
