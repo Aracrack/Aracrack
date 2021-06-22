@@ -14,4 +14,4 @@ Essas são algumas das linguagens de programação que conheço:
 - ⌨️ JavaScript;
 > Ainda aprendendo
 
-[`English`](https://github.com/Aracrack/Aracrack/blob/main/README.md)[`Spanish`](https://va-cursos.com)
+[`English`](https://github.com/Aracrack/Aracrack/blob/main/README.md) [`Spanish`](https://github.com/Aracrack/Aracrack/blob/main/spanish.md)
