@@ -15,7 +15,7 @@ These are some of my programming knowledges:
 - ⌨️ JavaScript;
 > Still learning
 
-`Portuguese`(https://va-cursos.com)
+[`Portuguese`](https://va-cursos.com)
 ### Olá 👋
 
 Meu nome é Vitor Arakaki e eu sou um Engenheiro de dados.
