@@ -15,19 +15,4 @@ These are some of my programming knowledges:
 - ⌨️ JavaScript;
 > Still learning
 
-[`Portuguese`](https://va-cursos.com)
-### Olá 👋
-
-Meu nome é Vitor Arakaki e eu sou um Engenheiro de dados.
-
-Atualmente estou trabalhando no Itaú Unibanco.
-
-Estou sempre aprendendo algo diferente, especialmente sobre programação em diferentes linguagens.
-
-Essas são algumas das linguagens de programação que conheço:
-
-- 🐍 Python;
-- 💾 SQL;
-- 📱 Flutter;
-- ⌨️ JavaScript;
-> Ainda aprendendo
+[`Portuguese`](https://github.com/Aracrack/Aracrack/blob/main/portuguese.md)[`Spanish`](https://va-cursos.com)
