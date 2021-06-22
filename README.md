@@ -15,4 +15,4 @@ These are some of my programming knowledges:
 - ⌨️ JavaScript;
 > Still learning
 
-[`Portuguese`](https://github.com/Aracrack/Aracrack/blob/main/portuguese.md)[`Spanish`](https://va-cursos.com)
+[`Portuguese`](https://github.com/Aracrack/Aracrack/blob/main/portuguese.md)  [`Spanish`](https://github.com/Aracrack/Aracrack/blob/main/spanish.md)
