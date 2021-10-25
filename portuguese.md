@@ -12,6 +12,6 @@ Essas são algumas das linguagens de programação que conheço:
 - 💾 SQL;
 - 📱 Flutter;
 - ⌨️ JavaScript;
-> Ainda aprendendo
+> Sempre aprendendo
 
 [`English`](https://github.com/Aracrack/Aracrack/blob/main/README.md) [`Spanish`](https://github.com/Aracrack/Aracrack/blob/main/spanish.md)

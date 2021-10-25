@@ -13,6 +13,6 @@ Estos son algunos de mis conocimientos de programación:
 - 💾 SQL;
 - 📱 Flutter;
 - ⌨️ JavaScript;
-> Aún aprendiendo
+> Siempre aprendiendo
 
 [`English`](https://github.com/Aracrack/Aracrack/blob/main/README.md)  [`Portuguese`](https://github.com/Aracrack/Aracrack/blob/main/portuguese.md)
